@@ -21,7 +21,7 @@ To diversify the experience, use a variety of screws. Some of them should match 
 
 I recommend using screws with a thread not longer than 35 mm, to avoid piercing a wall behind the panel. Other than that, to enable mounting object of different sizes to the panel, screws should be of different lengths, actually some should be longer than 35 mm, provided the thread-proper is not longer than 35 mm. 
 
-To avoid danger of suffocation (if you decide to use the design provided, against my recommendation, as a toy for children) you should not be using screws shorter than 35 mm, either, or any screws that you consider too small. In this case, obviously, your children safety is more important that the wall behind the panel and it is you who are ultimately responsible for your children safety.
+To avoid danger of suffocation (if you decide to use the design provided, against my recommendation, as a toy for children) you should not be using screws shorter than 35 mm, either, or any screws that you consider too small. In this case, obviously, your children safety is more important than the wall behind the panel and it is you who are ultimately responsible for your children safety.
 
 I recommend using screws with various sizes and types of heads. I recommend the semicircular and cylindrical headed screws of the following types:
 - ampoule 5 mm
