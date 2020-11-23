@@ -17,19 +17,21 @@ You will need 200 M8 (8 mm thread) and 200 M10 (10 mm thread) screw nuts at the 
 
 ### Screws
 
-To diversify the experience, use a variety of screws. Some of them should match 8 mm thread, some should match 10 mm thread.
+To diversify the experience, use a variety of screws. Some of them should match M8 nuts (8 mm thread), some should match M10 nuts (10 mm thread).
 
 I recommend using screws with a thread not longer than 35 mm, to avoid piercing a wall behind the panel. Other than that, to enable mounting object of different sizes to the panel, screws should be of different lengths, actually some should be longer than 35 mm, provided the thread-proper is not longer than 35 mm. 
 
-To avoid danger of suffocation (if you decide to use the design provided, against my recommendation, as a toy for children) you should not be using screws shorter than 35 mm, too, or any other length that you consider adequately minimal. In this case, obviously, your children safety is more important that the wall behind the panel and it is you who are ultimately responsible for your children safety.
+To avoid danger of suffocation (if you decide to use the design provided, against my recommendation, as a toy for children) you should not be using screws shorter than 35 mm, either, or any other length that you consider adequately minimal. In this case, obviously, your children safety is more important that the wall behind the panel and it is you who are ultimately responsible for your children safety.
 
-I recommend using screws with various sizes and types of heads. I recommend the semicircular and cylindrical head types, with mounts for the following tools:
+I recommend using screws with various sizes and types of heads. I recommend the semicircular and cylindrical headed screws of the following types:
 - ampoule 5 mm
 - ampoule 6 mm
 - ampoule 8 mm
 - torx 40
 - hexagonal head (size 13, for 8 mm thread screws matching M8 nuts)
 - hexagonal head (size 17, for 10 mm thread screws matching M10 nuts)
+
+Mix and match the screw head types with their thread width and their length for maximal variety.
 
 ### Wrenches and Screwdrivers
 
@@ -44,8 +46,8 @@ To match the various screw heads, I recommend the following tools:
 ## Assembly instructions
 I recommend using a wikol-like wood glue for gluing plywood. It is a (relatively) safe adhesive.
 
-- The frame consists of 2 layers of 12 mm thick plywood. They should be glued together. 
-- The panel proper consists of 3 mm inner layer, followed by 2 layers of 4 mm thickness with holes for the screw nut grid, followed by the outer layer of 3 mm. They should be glued together, but before you glue the outer 3 mm layer, press the 400 screw nuts into their slots!
+- The frame consists of 2 layers of 12 mm thick plywood. Glue them together. 
+- The panel proper consists of 3 mm inner layer, followed by 2 layers of 4 mm thickness with holes for the screw nut grid, followed by the outer layer of 3 mm. Glue all of them together, but before you glue the outer 3 mm layer, press the 400 screw nuts into their slots!
 - Glue the frame with the panel proper 
 - Mount the panel on the wall with 4 mounting screws. As the thing is quite heavy, consider using at least 8 mm wall plugs.
 - As your kids might get the idea to unmount the panel from the wall, you might consider masking the 4 mounting screw heads with a silicone.
