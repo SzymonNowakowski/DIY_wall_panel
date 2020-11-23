@@ -11,7 +11,7 @@ The outer dimensions of the panel are 595x595 (in mm), the total thickness is 38
 
 ## Photos
 
-I uploaded my realization photos. If you **do it yourself**, too, make sure to upload or share with me your realization photos, too.
+I uploaded my realization photos. If you **do it yourself**, make sure to upload or share with me your realization photos, too.
 
 ## Additional equipment recommendations
 
