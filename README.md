@@ -7,7 +7,7 @@ It may be used as a playground for kids, provided you consider your children saf
 
 The grid is 20x20 resulting in 400 screw slots. There are 200 M8 screw slots and 200 M10 screw slots randomly permuted.
 
-The outer dimensions are 595x595 (in mm).
+The outer dimensions are 595x595 (in mm), the total thickness is 38 mm.
 
 ## Additional equipment recommendations
 
@@ -46,12 +46,12 @@ To match the various screw heads, I recommend the following tools:
 ## Assembly instructions
 I recommend using a wood glue for gluing plywood. It is usually a (relatively) safe adhesive. Choose the safest brand.
 
-- The frame consists of 2 layers of 12 mm thick plywood. Glue them together. 
-- The panel proper consists of 3 mm inner layer, followed by 2 layers of 4 mm thickness with holes for the screw nut grid, followed by the outer layer of 3 mm. Glue all of them together, but before you glue the outer 3 mm layer, press the 400 screw nuts into their slots!
-- Glue the frame with the panel proper 
-- Mount the panel on your wall with 4 mounting screws. As the thing is quite heavy, consider using at least 8 mm wall plugs.
-- As your kids might get the idea to unmount the panel from the wall, you might consider masking the 4 mounting screw heads with a silicone.
-- Let your family draw with crayons, pens, etc. on the mounted panel. Actually, they will draw and paint on it in all assembly steps.
+- The frame consists of 2 layers of 12 mm thick plywood (2 x file: *design_PDFs/12mm_frame.pdf*). Glue them together. The thickness of the frame is 24 mm. 
+- The panel proper consists of 3 mm inner layer (1 x file: *design_PDFs/3mm_inner_layer.pdf*), followed by 2 layers of 4 mm thickness (2 x file: *design_PDFs/4mm_layer.pdf*) with holes for the screw nut grid, followed by the outer layer of 3 mm (1 x file: *design_PDFs/3mm_outer_layer.pdf*). Glue all of them together, but before you glue the outer 3 mm layer, press the 400 screw nuts into their slots! The thickness of the panel proper is 14 mm.
+- Glue the frame with the panel proper. The thickness of the panel with frame is 38 mm.
+- Mount the panel on your wall with 4 mounting screws. The frame should be facing your wall, the panel proper should be facing yourself. As the thing is quite heavy, consider using at least 8 mm wall plugs.
+- As your kids might get the idea to unmount the panel from the wall, you might consider masking the 4 mounting screw heads with silicone.
+- Let your family draw with crayons, pens, etc. on the mounted panel. Actually, they will draw and paint on it in all assembly steps. Have fun!
 
 **EXPLANATION:** The unique reason I chose to use 2 layers of 4 mm for a grid, not one 8 mm layer, is that the laser cutting workshop I work with doesn't cut 8 mm plywodd. They cut 3, 4, 6 and 12 mm plywood only.
 
