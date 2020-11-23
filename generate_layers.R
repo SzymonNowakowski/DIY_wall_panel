@@ -104,7 +104,7 @@ close.pdf <- function() {
 }
 
 
-open.pdf("12mm_frame.pdf", 595, 595, 10)
+open.pdf("design_PDFs/12mm_frame.pdf", 595, 595, 10)
 draw.outer.frame()
 draw.inner.frame()
 draw.mounting.slots(2)
@@ -113,19 +113,19 @@ close.pdf()
 sizes <- c(rep(0,200), rep(1,200))
 permuted_sizes <- gtools::permute(sizes)
 
-open.pdf("3mm_inner_layer.pdf", 595, 595, 10)
+open.pdf("design_PDFs/3mm_inner_layer.pdf", 595, 595, 10)
 draw.outer.frame()
 draw.grid(permuted_sizes, 5, 6, plotrix::draw.circle)
 draw.mounting.slots(2)
 close.pdf()
 
-open.pdf("3mm_outer_layer.pdf", 595, 595, 10)
+open.pdf("design_PDFs/3mm_outer_layer.pdf", 595, 595, 10)
 draw.outer.frame()
 draw.grid(permuted_sizes, 5, 6, plotrix::draw.circle)
 draw.mounting.slots(5)
 close.pdf()
 
-open.pdf("4mm_layer.pdf", 595, 595, 10)
+open.pdf("design_PDFs/4mm_layer.pdf", 595, 595, 10)
 draw.outer.frame()
 draw.grid(permuted_sizes, 13/2, 17/2, draw.hex)
 draw.mounting.slots(5)
