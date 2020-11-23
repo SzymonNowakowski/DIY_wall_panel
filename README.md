@@ -5,9 +5,9 @@ DIY wall panel consists of several flat geometrical surfaces laser-cut out from 
 
 It may be used as a playground for kids, provided you consider your children safety *first*. It is your decision. Kids appreciate that they can play with real adult stuff, not toys. Matching tool types with screw head types and screw sizes with nut sizes is great for improving cognitive skills. Using tools with different handles and with different screwing and unscrewing motion types is great for the general dexterity and eye-hand connection development for young children. But **I don't recommend that you use this design as a toy for children**. 
 
-The grid is 20x20 resulting in 400 screw slots. There are 200 M8 screw slots and 200 M10 screw slots randomly permuted.
+The grid in the panel is 20x20 resulting in 400 screw slots. There are 200 M8 screw slots and 200 M10 screw slots randomly permuted.
 
-The outer dimensions are 595x595 (in mm), the total thickness is 38 mm.
+The outer dimensions of the panel are 595x595 (in mm), the total thickness is 38 mm.
 
 ## Additional equipment recommendations
 
@@ -53,7 +53,7 @@ I recommend using a wood glue for gluing plywood. It is usually a (relatively) s
 - As your kids might get the idea to unmount the panel from the wall, you might consider masking the 4 mounting screw heads with silicone.
 - Let your family draw with crayons, pens, etc. on the mounted panel. Actually, they will draw and paint on it in all assembly steps. Have fun!
 
-**EXPLANATION:** The unique reason I chose to use 2 layers of 4 mm for a grid, not one 8 mm layer, is that the laser cutting workshop I work with doesn't cut 8 mm plywodd. They cut 3, 4, 6 and 12 mm plywood only.
+**EXPLANATION:** The unique reason I chose to use 2 layers of 4 mm for a grid, not one 8 mm layer, is that the laser cutting workshop I work with doesn't cut in 8 mm plywood. They cut in 3, 4, 6 and 12 mm plywood only.
 
 **DISCLAIMER:** I do NOT recommend this design as a toy for children. On the other hand, it *would be* great for their cognitive skills, dexterity and eye-hand connection. It is you who know your children best. Please carefully think if my recommendations for tools, glue, screws and nuts are adequate for **your** children, considering their age, abilities, danger of suffocation and so on, **before** *you* make *your* decision. Ultimately, it is you who are responsible for your children safety. If you decide, against my recommendation, to provide your children with this wall panel as a toy, **make sure you supervise your children playing with it at all times** and **do not leave your child with the panel, screws nor tools unattended**.
 
