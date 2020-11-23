@@ -2,11 +2,11 @@
 library(plotrix)
 library(gtools)
 
-draw.mounting.slots <- function(diameter) {
-  draw.circle(35, 35, r=diameter / 2)
-  draw.circle(35, 560, r=diameter / 2)
-  draw.circle(560, 35, r=diameter / 2)
-  draw.circle(560, 560, r=diameter / 2)
+draw.mounting.slots <- function(r) {
+  draw.circle(35, 35, r)
+  draw.circle(35, 560, r)
+  draw.circle(560, 35, r)
+  draw.circle(560, 560, r)
 }
 
 
