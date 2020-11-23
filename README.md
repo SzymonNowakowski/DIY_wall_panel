@@ -9,6 +9,8 @@ The grid in the panel is 20x20 resulting in 400 screw slots. There are 200 M8 sc
 
 The outer dimensions of the panel are 595x595 (in mm), the total thickness is 38 mm.
 
+If you **do it yourself**, too, make sure to upload or share with me your realization photos.
+
 ## Additional equipment recommendations
 
 ### Screw nuts
