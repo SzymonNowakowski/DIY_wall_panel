@@ -16,7 +16,7 @@ I uploaded my realization photos. If you **do it yourself**, make sure to upload
 <table align=\"center\">
 <tr>
 <td>Panel assembly:</td>
-<td><img src="https://github.com/SzymonNowakowski/DIY_wall_panel/blob/master/photos/1_panel_one_element_each_type.jpg?raw=1" width="250"></td>
+<td><img src="https://github.com/SzymonNowakowski/DIY_wall_panel/refs/heads/main/photos/1_panel_one_element_each_type.jpg?raw=1" width="250"></td>
 </tr>
 
 <tr>
