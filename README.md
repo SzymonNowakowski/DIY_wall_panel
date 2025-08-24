@@ -18,10 +18,10 @@ I uploaded my realization photos. If you **do it yourself**, make sure to upload
 
 <table align=\"center\">
 <tr>
-<td><img src="https://github.com/SzymonNowakowski/DIY_wall_panel/blob/main/photos/1_panel_one_element_each_type.jpg?raw=1" width="250" style="transform: rotate(90deg);" alt="all elements of the panel presented"></td>
-<td><img src="https://github.com/SzymonNowakowski/DIY_wall_panel/blob/main/photos/2_panel_with_screw_nuts_mounted.jpg?raw=1" width="250" alt="screws mounted in the sockets"></td>
-<td><img src="https://github.com/SzymonNowakowski/DIY_wall_panel/blob/main/photos/3_panel_ready_for_final_gluing.jpg?raw=1" width="250" alt="all elements ready for final gluing"></td>
-<td><img src="https://github.com/SzymonNowakowski/DIY_wall_panel/blob/main/photos/4_painting_the_panel.jpg?raw=1" width="250" alt="painting the panel is fun in itself"></td>
+<td><img src="https://github.com/SzymonNowakowski/DIY_wall_panel/blob/main/photos/1_panel_one_element_each_type.jpg?raw=1" height="250" alt="all elements of the panel presented"></td>
+<td><img src="https://github.com/SzymonNowakowski/DIY_wall_panel/blob/main/photos/2_panel_with_screw_nuts_mounted.jpg?raw=1" height="250" alt="screws mounted in the sockets"></td>
+<td><img src="https://github.com/SzymonNowakowski/DIY_wall_panel/blob/main/photos/3_panel_ready_for_final_gluing.jpg?raw=1" height="250" alt="all elements ready for final gluing"></td>
+<td><img src="https://github.com/SzymonNowakowski/DIY_wall_panel/blob/main/photos/4_painting_the_panel.jpg?raw=1" height="250" alt="painting the panel is fun in itself"></td>
 </tr>
 </table>
 
@@ -29,9 +29,9 @@ I uploaded my realization photos. If you **do it yourself**, make sure to upload
 
 <table align=\"center\">
 <tr>
-<td><img src="https://github.com/SzymonNowakowski/DIY_wall_panel/blob/main/photos/5_panel_mounted_on_the_wall.jpgg?raw=1" width="250" alt="panel is already mounted on the wall"></td>
-<td><img src="https://github.com/SzymonNowakowski/DIY_wall_panel/blob/main/photos/6_panel_mounted_on_the_wall_with_a_few_screws_put_in.jpg?raw=1" width="250" alt="kids mounting things in the panel"></td>
-<td><img src="https://github.com/SzymonNowakowski/DIY_wall_panel/blob/main/photos/7_constructing-kitchen_oven.jpg?raw=1" width="250" alt="kids claim it is a kitchen oven that they construct"></td>
+<td><img src="https://github.com/SzymonNowakowski/DIY_wall_panel/blob/main/photos/5_panel_mounted_on_the_wall.jpg?raw=1" height="250" alt="panel is already mounted on the wall"></td>
+<td><img src="https://github.com/SzymonNowakowski/DIY_wall_panel/blob/main/photos/6_panel_mounted_on_the_wall_with_a_few_screws_put_in.jpg?raw=1" height="250" alt="kids mounting things in the panel"></td>
+<td><img src="https://github.com/SzymonNowakowski/DIY_wall_panel/blob/main/photos/7_constructing-kitchen_oven.jpg?raw=1" height="250" alt="kids claim it is a kitchen oven that they construct"></td>
 </tr>
 </table>
 
