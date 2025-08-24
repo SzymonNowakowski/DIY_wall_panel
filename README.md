@@ -1,4 +1,4 @@
-# wall_panel
+# DIY wall panel
 
 ## Description
 DIY wall panel consists of several flat geometrical surfaces laser-cut out from plywood of different thickness and glued together. The screw nuts are fixed in place in-between layers.
@@ -12,6 +12,15 @@ The outer dimensions of the panel are 595x595 (in mm), the total thickness is 38
 ## Photos
 
 I uploaded my realization photos. If you **do it yourself**, make sure to upload or share with me your realization photos, too.
+
+<table align=\"center\">
+<tr>
+<td>Kids playing with a panel</td>
+<td><img src=\"https://github.com/SzymonNowakowski/Machine-Learning-2024/blob/master/grana/grana_examples/train_img_raw-eff8496-10.png?raw=1\" width=\"250\"></td>
+<td><img src=\"https://github.com/SzymonNowakowski/Machine-Learning-2024/blob/master/grana/grana_examples/train_img_raw-eff8496-10.png?raw=1\" width=\"250\"></td>
+</tr>
+<td><img src=\"https://github.com/SzymonNowakowski/Machine-Learning-2024/blob/master/grana/grana_examples/train_img_raw-eff8496-10.png?raw=1\" width=\"250\"></td>  
+</table>"
 
 ## Additional equipment recommendations
 
