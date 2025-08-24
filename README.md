@@ -16,14 +16,12 @@ I uploaded my realization photos. If you **do it yourself**, make sure to upload
 <table align=\"center\">
 <tr>
 <td>Panel assembly:</td>
-<td><img src=\"https://github.com/SzymonNowakowski/Machine-Learning-2024/blob/master/grana/grana_examples/train_img_raw-eff8496-10.png?raw=1\" width=\"250\"></td>
-<td><img src=\"https://github.com/SzymonNowakowski/Machine-Learning-2024/blob/master/grana/grana_examples/train_img_raw-eff8496-10.png?raw=1\" width=\"250\"></td>
+<td><img src="https://github.com/SzymonNowakowski/Machine-Learning-2024/blob/master/grana/grana_examples/train_img_raw-eff8496-10.png?raw=1" width="250"></td>
 </tr>
 
 <tr>
 <td>Kids playing with a panel:</td>
-<td><img src=\"https://github.com/SzymonNowakowski/Machine-Learning-2024/blob/master/grana/grana_examples/train_img_raw-eff8496-10.png?raw=1\" width=\"250\"></td>
-<td><img src=\"https://github.com/SzymonNowakowski/Machine-Learning-2024/blob/master/grana/grana_examples/train_img_raw-eff8496-10.png?raw=1\" width=\"250\"></td>
+<td><img src="https://github.com/SzymonNowakowski/Machine-Learning-2024/blob/master/grana/grana_examples/train_img_raw-eff8496-10.png?raw=1" width="250"></td>
 </tr>  
 
 </table>
